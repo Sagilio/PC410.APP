@@ -328,6 +328,9 @@ Public Class Main
         End If
     End Sub
 
+    Private Sub MenuStrip1_ItemClicked(sender As Object, e As ToolStripItemClickedEventArgs) Handles MenuStrip1.ItemClicked
+
+    End Sub
 End Class
 
 '程序v0.2.0项目于2018.12.07停止修改（目前问题与之后计划详见ReadMe.txt）
